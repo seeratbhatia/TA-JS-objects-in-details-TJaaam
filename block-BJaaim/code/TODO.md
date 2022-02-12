@@ -43,3 +43,6 @@ METHOD:
   This will create the ui of the whole app.
 - updateScore
   This method will update the score.
+  
+  
+  d
